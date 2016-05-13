@@ -1,0 +1,115 @@
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\obj\x86\Debug\Interop.WMPLib.dll
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.ResolveComReference.cache
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\bin\Debug\Interop.WMPLib.dll
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\obj\x86\Debug\Tetris.FormGameBoard.resources
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\obj\x86\Debug\Tetris.FormGameOver.resources
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\obj\x86\Debug\Tetris.FormMainMenu.resources
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\obj\x86\Debug\Tetris.FormMedia.resources
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\obj\x86\Debug\Tetris.FormMenuPause.resources
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\obj\x86\Debug\Tetris.FormSound.resources
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+D:\Documents\2014-2015__HK1\LTHDT\Ass_v2\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+I:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Interop.WMPLib.dll
+I:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\AxInterop.WMPLib.dll
+I:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.ResolveComReference.cache
+I:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+I:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Interop.WMPLib.dll
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.ResolveComReference.cache
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+D:\Assignment OOP\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Assignment OOP\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Assignment OOP\Tetris\Tetris\bin\Debug\Interop.WMPLib.dll
+D:\Assignment OOP\Tetris\Tetris\bin\Debug\AxInterop.WMPLib.dll
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormGameBoard.resources
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormGameOver.resources
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormMainMenu.resources
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormMedia.resources
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormMenuPause.resources
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormSound.resources
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\Interop.WMPLib.dll
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.ResolveComReference.cache
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\bin\Debug\Interop.WMPLib.dll
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\Tetris.FormGameBoard.resources
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\Tetris.FormGameOver.resources
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\Tetris.FormMainMenu.resources
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\Tetris.FormMedia.resources
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\Tetris.FormMenuPause.resources
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\Tetris.FormSound.resources
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+D:\Documents\2014-2015__HK1\LTHDT\New folder\Tetris\Tetris\obj\x86\Debug\Tetris.FormHelp.resources
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Interop.WMPLib.dll
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.ResolveComReference.cache
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+G:\Assignment OOP\Tetris\Tetris\bin\Debug\Tetris.exe
+G:\Assignment OOP\Tetris\Tetris\bin\Debug\Tetris.pdb
+G:\Assignment OOP\Tetris\Tetris\bin\Debug\Interop.WMPLib.dll
+G:\Assignment OOP\Tetris\Tetris\bin\Debug\AxInterop.WMPLib.dll
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormGameBoard.resources
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormGameOver.resources
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormHelp.resources
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormMainMenu.resources
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormMedia.resources
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormMenuPause.resources
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormSound.resources
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+G:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormSettings.resources
+D:\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormHelpAndCredits.resources
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Interop.WMPLib.dll
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.ResolveComReference.cache
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\bin\Debug\Interop.WMPLib.dll
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormGameBoard.resources
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormGameOver.resources
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormHelpAndCredits.resources
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormMainMenu.resources
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormMenuPause.resources
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormSettings.resources
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+D:\Documents\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Interop.WMPLib.dll
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.ResolveComReference.cache
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\bin\Debug\Interop.WMPLib.dll
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\bin\Debug\AxInterop.WMPLib.dll
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormGameBoard.resources
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormGameOver.resources
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormHelpAndCredits.resources
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormMainMenu.resources
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormMenuPause.resources
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.FormSettings.resources
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+D:\Document\2014-2015__HK1\LTHDT\Assignment OOP\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
